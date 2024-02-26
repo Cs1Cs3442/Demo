@@ -1,0 +1,146 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1", Transformers: O Despertar das Feras
+http://7da15e7a4d.farpasmaster.shop:8880/deregodego/lastdance/filmcucu/3/tr4nsfrms0d3sp3rt4rd4sf3r4sDUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="One Piece : Série" size="Small" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuItO2YIrGKDIopdQY-OYX0iXiUHPSnlHWDQ&usqp=CAU", T01E01
+http://2da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/0n3p13c34s3r1T01E01DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="One Piece : Série" size="Small" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuItO2YIrGKDIopdQY-OYX0iXiUHPSnlHWDQ&usqp=CAU", T01E02
+http://5da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/0n3p13c34s3r1T01E02DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="One Piece : Série" size="Small" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuItO2YIrGKDIopdQY-OYX0iXiUHPSnlHWDQ&usqp=CAU", T01E06
+http://3da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/0n3p13c34s3r1T01E06DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="One Piece : Série" size="Small" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuItO2YIrGKDIopdQY-OYX0iXiUHPSnlHWDQ&usqp=CAU", T01E05
+http://2da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/0n3p13c34s3r1T01E05DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="One Piece : Série" size="Small" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuItO2YIrGKDIopdQY-OYX0iXiUHPSnlHWDQ&usqp=CAU", T01E04
+http://2da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/0n3p13c34s3r1T01E04DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="One Piece : Série" size="Small" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuItO2YIrGKDIopdQY-OYX0iXiUHPSnlHWDQ&usqp=CAU", T01E03
+http://2da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/0n3p13c34s3r1T01E03DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="One Piece : Série" size="Small" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuItO2YIrGKDIopdQY-OYX0iXiUHPSnlHWDQ&usqp=CAU", T01E07
+http://3da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/0n3p13c34s3r1T01E07DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="One Piece : Série" size="Small" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuItO2YIrGKDIopdQY-OYX0iXiUHPSnlHWDQ&usqp=CAU", T01E08
+http://3da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/0n3p13c34s3r1T01E08DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E01
+http://1da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E01DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E02
+http://3da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E02DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E03
+http://5da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E03DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E04
+http://5da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E04DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E05
+http://5da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E05DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E06
+http://1da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E06DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E07
+http://3da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E07DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E08
+http://2da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E08DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E09
+http://3da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E09DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Impuros-T04", E10
+http://1da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/sericucu/2/1mpur0sT04E10DUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T01", E01
+https://video.wixstatic.com/video/8d3786_97ae4859bf22447b9608e30b31da504c/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T01", E02
+https://video.wixstatic.com/video/8d3786_c37e12e9b47448e080057183f9aa4ff6/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T01", E03
+https://video.wixstatic.com/video/8d3786_e03457a044f943f58bc9c12159ba58ab/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Terror", Boogeyman
+http://9da15e7a4d.farpasmaster.shop:8880/deregodego/newhasta/filmcucu/1/b00g3ym4nsm3d0r34lDUB.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T01", E04
+https://video.wixstatic.com/video/8d3786_8fb23d55f88a44b683841e9e857f42bc/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T01", E05
+https://video.wixstatic.com/video/8d3786_6a35c80ba5424c1ba7f9d1300905a4fe/720p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T01", E06
+https://video.wixstatic.com/video/8d3786_36f46f99bb4b440ea69cf90b139fa7dc/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T01", E07
+https://video.wixstatic.com/video/8d3786_0b604e6c2b104566b2c2b3b629e42d98/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T01", E08
+https://video.wixstatic.com/video/8d3786_1f31b5307dac436fa3c7253e62048175/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E01
+https://video.wixstatic.com/video/8d3786_6c2f8d61695c43fca321597dd8ebd8ee/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E02
+https://video.wixstatic.com/video/8d3786_e3a8c6b1d2854ddfa0a6faaa7082e2ee/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E03
+https://video.wixstatic.com/video/8d3786_b4475adc25c04a4182d1fe6809255d20/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E04
+https://video.wixstatic.com/video/8d3786_37b358561cf84f83b758abdfe3d41f71/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E05
+https://video.wixstatic.com/video/8d3786_45ec34501c79441498017c1c9d3045b3/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E06
+https://video.wixstatic.com/video/8d3786_19376987746d4952be5c7f24aa7b2ad0/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E07
+https://video.wixstatic.com/video/8d3786_cc284a4975984e5482877236430af7f1/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E08
+https://video.wixstatic.com/video/8d3786_338eeb4db18542c3af6f1f5e02877f9e/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Stranger Things - T02", E09
+https://video.wixstatic.com/video/8d3786_bd5094066ff040b09aaf96190a65cd44/480p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1", Super Mario
+http://makeke.girardoan.shop:2086/filme/deregodego/lastdance/filmcucu/2/sup3rm4r10brs0f1lm3DUB.mp4
+#EXTINF:0 type="video" channelId="-1", Ponte Pará Terabitia
+https://video.wixstatic.com/video/9283ac_f0dec0700aad406f829dc5d270953adb/720p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1", Freira 2
+http://makeke.girardoan.shop:2086/filme/deregodego/newhasta/filmcucu/1/4fr3r42DUB.mp4
+
+Prision Break 1° TEMPORADA
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T01-E:20
+https://video.wixstatic.com/video/8d3786_c917f2daa1554d609c71a293573be19b/720p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T01-E:21
+https://video.wixstatic.com/video/8d3786_7e16373bfb29466aab566cdb7854431f/720p/mp4/file.mp4
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T01-E22
+https://video.wixstatic.com/video/8d3786_bb4a5c2265cb4639931b4cf0b8aa400a/720p/mp4/file.mp4
+ 
+Prision Break 2° TEMPORADA 
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:01
+https://video.wixstatic.com/video/8d3786_4864718335a443df807fede464a51188/720p/mp4/file.mp4
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:02
+https://video.wixstatic.com/video/8d3786_061b4d7ac9114ca791a40bd450df81cc/720p/mp4/file.mp4
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:03
+https://video.wixstatic.com/video/8d3786_30a94322bced429697709cbae87b05c0/720p/mp4/file.mp4
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:04
+https://video.wixstatic.com/video/8d3786_c07177a3b9ed4b9aabbf64e42f3440fa/720p/mp4/file.mp4
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:05
+https://video.wixstatic.com/video/8d3786_b9e07cfb1ce2417b8b72424b275e0a20/720p/mp4/file.mp4
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:06
+https://video.wixstatic.com/video/8d3786_d9fbc1313e8c4ed9b449386ad069e73b/720p/mp4/file.mp4
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:07
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:08
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:09
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:10
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:11
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:12
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:13
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:14
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:15
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:16
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:17
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:18
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:19
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:20
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:21
+
+#EXTINF:0 type="video" channelId="-1" group="Prision Break: Série",T02-E:22
+
+
+
+
+
+
