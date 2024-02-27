@@ -1,1 +1,5 @@
-casa de mamae 
+#EXTM3U
+
+#EXTINF:0 type="video" channelId="-1", Transformers: O Despertar das Feras
+
+http://7da15e7a4d.farpasmaster.shop:8880/deregodego/lastdance/filmcucu/3/tr4nsfrms0d3sp3rt4rd4sf3r4sDUB.mp4
